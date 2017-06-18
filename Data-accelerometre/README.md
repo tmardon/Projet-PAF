@@ -1,5 +1,5 @@
 
-#Data-accelerometre
+# Data-accelerometre
 
 Ce dossier contient les differents données mesurées par l'accelerometre dans plusieurs états:
 - allonge
